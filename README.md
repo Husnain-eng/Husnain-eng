@@ -4,8 +4,7 @@
 
 ### Robotics & Automation Engineer • Autonomous Systems • Embedded Control • Mechanical Design
 
-**Building autonomous machines that work — from first principles to working hardware.**
-<sub>ROS 2 · SLAM · Real-Time Control</sub>
+**"And that there is not for man except that [good] for which he strives"**
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:enghusnainx77@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-husnain)
@@ -60,8 +59,11 @@ Robot perception & sensor fusion · SLAM and autonomous navigation · control sy
 ## 🏆 Leadership & Recognition
 
 🎤 Invited Presenter — INDUS RAS Expo, National Centre of Robotics and Automation (2026)
+
 💼 Deputy Director, Human Resource — Mechatronics Club, UET Lahore (2025–2026)
+
 🚀 Co-Founder — AH Digital Hub (2024–2025)
+
 
 ## 🛠️ Tech Stack
 
@@ -93,15 +95,6 @@ Robot perception & sensor fusion · SLAM and autonomous navigation · control sy
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-
-## 📊 GitHub Stats
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Husnain-eng&show_icons=true&theme=radical&hide_border=true" alt="Husnain's GitHub stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Husnain-eng&layout=compact&theme=radical&hide_border=true" alt="Top languages" height="165"/>
-</div>
-
-<sub>If these cards ever show blank, it's the shared public stats service being rate-limited (a known, documented issue with it), not a broken link — refresh, or deploy your own instance if it persists.</sub>
 
 ## 🤝 Let's Build Something
 
